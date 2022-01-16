@@ -1,4 +1,4 @@
-<h1 align="center">Pig Game</h1>
+<h1 align="center">HEDGE YOUR BETS!!</h1>
 <p align="center">
 	<img height="350px" alt="screenshot" src="https://dl.dropboxusercontent.com/s/z7xk6le5qr1o2qt/Screenshot_2020-12-01%20Pig%20Game.png?dl=0">
 	<br>
@@ -15,7 +15,7 @@
 <p>
 
 ## :question: About:
-**Pig Game** is a free game made for you to spend free time. The rules are simple:
+**HEDGE YOUR BETS** is a free game made for you to spend free time. The rules are simple:
 
 - Each turn, a player repeatedly rolls a dice until either a 1 is rolled or the player decides to "hold".
 - If the player rolls a 1, they score nothing and it becomes the next player's turn. If the player rolls any other number, it is added to their turn total and the player's turn continues.
