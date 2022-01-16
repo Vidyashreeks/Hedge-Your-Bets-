@@ -43,6 +43,4 @@ $ git clone git@github.com:lobophf/pig-game.git
 
 Then access the `pig-game` folder, and open the `index.html` file in your browser by clicking twice.
 
-## :balance_scale: License
 
-**Pig game** is a MIT licensed, as found in the [LICENSE](./LICENSE) file.
