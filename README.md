@@ -5,13 +5,12 @@
 	<a href="#question-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 	<a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 	<a href="#clubs-gaming">Gaming</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-	<a href="#balance_scale-license">License</a>	
+	
 </p>
 
 <p align="center">
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lobophf/pig-game">	
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lobophf/pig-game">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"> 
+    
 <p>
 
 ## :question: About:
@@ -37,9 +36,6 @@ Note: This game was created by [@jonasschmedtmann](https://github.com/jonasschme
 ## :clubs: Gaming:
 This game doesn't require installation. To play it on your machine, first clone this repository.
 
-```sh
-$ git clone git@github.com:lobophf/pig-game.git
-```
 
 Then access the `pig-game` folder, and open the `index.html` file in your browser by clicking twice.
 
