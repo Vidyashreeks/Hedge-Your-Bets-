@@ -26,7 +26,7 @@ You can try this game by clicking on the button below.
 	<a href="https://lobophf.github.io/pig-game/"><img alt ="deploy shield" src="https://img.shields.io/badge/%F0%9F%99%82%EF%B8%8F-Let's%20play!-c73657.svg" height="39px"></a>
 </p>
 
-Note: This game was created by [@jonasschmedtmann](https://github.com/jonasschmedtmann), and can be found in his [JavaScript course](https://www.udemy.com/course/the-complete-javascript-course/) on Udemy. This version is slightly different from the original. 
+ 
 
 ## :rocket: Technologies:
 <p>
